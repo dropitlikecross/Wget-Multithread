@@ -1,5 +1,5 @@
 # Wget-Multithread
-Two shell scripts that give you a work around Wget's lack of Multi Threading.
+Two shell scripts that give you a work around for Wget's lack of Multi Threading.
 
 
 **How to multi thread with [Wget](https://www.gnu.org/software/wget/) [2 Methods]**  
